@@ -1,2 +1,2 @@
-# Predicting-Auction-Price
-Predicting of Auction Price for IPL Players 
+# AuctionPrice Prediction
+Predicting Auction Price for IPL Players 
