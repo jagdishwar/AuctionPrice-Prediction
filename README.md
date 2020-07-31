@@ -8,11 +8,11 @@ Predicting Auction Price for IPL Players
 
 * Libraries
    
-  > - numpy
+     >  numpy
     
-  > - mathplotlib
+     >  mathplotlib
    
-  > -  pandas
+     >   pandas
    
-  > - seasborn
+     >  seasborn
 
