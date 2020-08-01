@@ -10,7 +10,7 @@ Predicting Auction Price for IPL Players
    
      >  numpy
     
-     >  mathplotlib
+     >   mathplot
    
      >   pandas
    
