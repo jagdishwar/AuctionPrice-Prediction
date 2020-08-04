@@ -1,4 +1,4 @@
-Steps :
+Steps:
 1.Collect/Extract Data
 2.Pre-Process the Data
 3.Dividing Data into Train and Validation Datasets may in ratio (80:20)%
