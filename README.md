@@ -16,3 +16,13 @@ Predicting Auction Price for IPL Players
    
      >  seasborn
 
+* Multi-collinearity 
+
+     Rx = R-squared value of this model
+     
+     VIF = 1/1-Rx^2
+     
+      
+
+     
+     
