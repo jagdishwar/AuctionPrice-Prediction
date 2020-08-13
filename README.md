@@ -10,11 +10,11 @@ Predicting Auction Price for IPL Players
    
      >  numpy
     
-     >   mathplot
+     >   mathplotlib
    
      >   pandas
    
-     >  seasborn
+     >  seaborn
 
 * Multi-collinearity 
 
@@ -24,5 +24,7 @@ Predicting Auction Price for IPL Players
      
       
 
+  
+  
      
      
