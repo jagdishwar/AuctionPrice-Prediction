@@ -22,7 +22,9 @@ Predicting Auction Price for IPL Players
      
      VIF = 1/1-Rx^2
      
-      
+* HeatMap corr
+  <img width="838" alt="Screenshot 2020-08-13 at 6 10 41 PM" src="https://user-images.githubusercontent.com/39494791/90136149-5a1bf700-dd91-11ea-8732-516e262129da.png">
+
 
      
      
