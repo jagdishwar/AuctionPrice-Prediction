@@ -35,5 +35,5 @@ Predicting Auction Price for IPL Players
         4.Bowler's Features - AVE-BL ,ECON and SR-BL are highly Correlated.
 
 
-     
+ #### https://en.wikipedia.org/wiki/Ordinary_least_squares
      
