@@ -1,5 +1,6 @@
 #  AuctionPrice Prediction
 Predicting Auction Price for IPL Players 
+#### https://en.wikipedia.org/wiki/Ordinary_least_squares
 
 * Multiple Linear Regression
 
@@ -34,6 +35,8 @@ Predicting Auction Price for IPL Players
         
         4.Bowler's Features - AVE-BL ,ECON and SR-BL are highly Correlated.
 
-
- #### https://en.wikipedia.org/wiki/Ordinary_least_squares
+* R- Squared value 0.75 Training Dataset .
+* R- Squared value 0.44 validation Dataset .
+  
+ 
      
